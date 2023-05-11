@@ -15,8 +15,9 @@ We believe that the new peer-to-peer version of "The Day of Sagittarius IV" will
 ### How to play
 1. Build the game from source
 ```bash
-cargo build --release
-```
+RISC0_SKIP_BUILD=1 cargo build --release
+```  
+The first build can take up to 5 minutes.
 
 2. Run the game
 ```bash
