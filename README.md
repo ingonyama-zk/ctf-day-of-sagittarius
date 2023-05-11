@@ -6,7 +6,7 @@ We are excited to announce the release of the latest version of the retro termin
 
 To ensure that players adhere to the rules of the game, the new version utilizes a zero-knowledge virtual machine. This feature allows players to verify that their opponents are playing fairly without revealing any confidential information.
 
-We are currently in the beta-testing phase, and we invite all gaming enthusiasts to try out the new version of "The Day of Sagittarius IV". You can download the beta-version from [here](https://github.com/ingonyama-zk/ctf-sagittarius).
+We are currently in the beta-testing phase, and we invite all gaming enthusiasts to try out the new version of "The Day of Sagittarius IV".
 
 As part of the beta-launch, we are also excited to announce a special promotional event. Players who win a bot in the game on `52.7.211.188:6000` will be eligible for a prize.
 
